@@ -1,0 +1,82 @@
+node_id,tipo,nombre,direccion,lat,lon
+0,DEPOSITO,Estación de Madrid-Puerta de Atocha,"Plaza del Emperador Carlos V, 28045 Madrid",40.4065,-3.6893
+1,ESTACION,2 - Metro Callao,"Calle Miguel Moya nº 1,",40.4204,-3.70569
+2,ESTACION,3 - Plaza Conde Suchil,"Plaza Conde Surchill, 4 ,",40.4303223,-3.7072537
+3,ESTACION,4 - Malasaña,"Calle Manuela Malasaña nº 3,",40.4286259,-3.7025
+4,ESTACION,5 - Fuencarral,"Calle Fuencarral nº 106,",40.4285212,-3.7021354
+5,ESTACION,6 - Colegio de Arquitectos,"Calle de Hortaleza, 53,",40.423178,-3.699023
+6,ESTACION,"7 - Hortaleza, 75","Calle Hortaleza nº 75,",40.4251906,-3.6977715
+7,ESTACION,8 - Metro Alonso Martínez,"Plaza de Alonso Martínez nº 6,",40.4278682,-3.6954403
+8,ESTACION,9 - Plaza de San Miguel,"Plaza de San Miguel nº 10,",40.4156057,-3.7095084
+9,ESTACION,10 - Marqués de la Ensenada,"Calle Marqués de la Ensenada (junto a edif, Centro Colón),",40.425403,-3.692104
+10,ESTACION,11 - Plaza del Dos de Mayo,"Calle San Andrés nº 18 - 20,",40.427,-3.7036
+11,ESTACION,12 - San Hermenegildo,"Calle San Bernardo nº 85 - 87,",40.4284667,-3.7061406
+12,ESTACION,13 - Conde Duque,"Calle Conde Duque nº 22,",40.4273,-3.7105
+13,ESTACION,14 - Ventura Rodríguez,"Ventura Rodríguez, 3,",40.4260425,-3.7133069
+14,ESTACION,15 - Norte,"Calle norte nº 10,",40.4262383,-3.7074453
+15,ESTACION,16 - San Bernardo,"Calle San Bernardo nº 22,",40.4229374,-3.707480849
+16,ESTACION,17 - Plaza de Carlos Cambronero,"Calle de la Madera, 10,",40.42280287,-3.705051129
+17,ESTACION,18 - Plaza de Pedro Zerolo,"Plaza de Pedro Zerolo nº 20,",40.4209251,-3.6996776
+18,ESTACION,19 - Prim,"Calle Prim nº 4,",40.4218616,-3.6954983
+19,ESTACION,20 - Banco de España,"Calle Alcalá nº 48,",40.4188076,-3.6952465
+20,ESTACION,23 - Santo Domingo,"Plaza de Santo Domingo nº 1,",40.4202595,-3.708249
+21,ESTACION,24 - Palacio de Oriente,"Calle Carlos III nº 1,",40.417767,-3.7106495
+22,ESTACION,25A - Plaza de Celenque A,"Plaza de Celenque nº 1,",40.4173703,-3.7057791
+23,ESTACION,25B - Plaza de Celenque B,"Plaza de Celenque nº 1,",40.4173687,-3.7058976
+24,ESTACION,26 - Plaza de las Salesas,"Plaza de las Salesas nº 2,",40.4239,-3.6945
+25,ESTACION,27 - Huertas,"Calle Jesús nº 6,",40.4133,-3.6957
+26,ESTACION,29 - Marqués de Cubas,"Calle del Marqués de Cubas nº 25,",40.4163838,-3.6957434
+27,ESTACION,30 - San Quintín,"Calle Pavía nº 4,",40.4192095,-3.711504
+28,ESTACION,31 - Mayor,"Calle Mayor nº 16,",40.4163638,-3.7068969
+29,ESTACION,32 - Plaza de la Provincia,"Calle Imperial, 3,",40.41466784,-3.706636289
+30,ESTACION,33 - Puerta del Sol,"Calle Carretas nº 3,",40.4165363,-3.7032264
+31,ESTACION,34 - Jacinto Benavente,"Plaza de Jacinto Benavente,",40.4145422,-3.7036883
+32,ESTACION,"35 - Doctor Letamendi, 3","Calle del Dr. Letamendi, 3,",40.41369072,-3.710062961
+33,ESTACION,36 - Plaza Ramales,"calle de Noblejas nº1,",40.416876,-3.712151
+34,ESTACION,"37 - Calatrava, 38","Calle de Calatrava, 38,",40.41022,-3.713482
+35,ESTACION,38 - Plaza de los Carros,"Carrera de San Francisco enfrente del nº 2 ,",40.4113586,-3.7115898
+36,ESTACION,39 - Plaza de la Cebada,"Plaza de la Cebada nº 3,",40.4112744,-3.7088337
+37,ESTACION,40 - Conde de Romanones,"Calle Conde de Romanones, 10,",40.4131489,-3.704953888
+38,ESTACION,41 - Metro Antón Martín,"Calle Atocha nº 56,",40.4122047,-3.6991147
+39,ESTACION,42 - Santa Isabel,"Calle Santa Isabel 32,",40.4108488,-3.6982922
+40,ESTACION,43 - Jesús y María,"Calle Jesús y María, 38 ,",40.4100387,-3.702471
+41,ESTACION,44 - Plaza de Nelson Mandela,"Plaza Nelson Mandela, 44 ,",40.40979071,-3.703864053
+42,ESTACION,45 - Metro Puerta de Toledo,"Puerta de Toledo 1 ,",40.4068659,-3.7111034
+43,ESTACION,46 - Ribera de Curtidores,"Calle Ribera de Curtidores nº 28,",40.4053153,-3.7071259
+44,ESTACION,47 - Renfe/Cercanías Embajadores,"Glorieta de Embajadores, 7 ,",40.4045772,-3.7027998
+45,ESTACION,48 - Juan Sebastián Elcano,"Calle Juan Sebastián Elcano  2,",40.4040433,-3.701321
+46,ESTACION,49 - Casa Encendida,"Ronda de Atocha nº 34,",40.4060533,-3.6992774
+47,ESTACION,50 - Museo Reina Sofía,"Calle Argumosa, 30,",40.4073541,-3.6960398
+48,ESTACION,51 - Ronda de Atocha,"Ronda de Atocha (esquina con Plaza del Emperador Carlos V),",40.40775565,-3.693485631
+49,ESTACION,52 - Plaza de Santa Ana,"Plaza de Santa Ana nº 10,",40.4144689,-3.7008558
+50,ESTACION,53 - Plaza de Lavapiés,"Plazuela de Ana Diosdado,",40.40830871,-3.700754126
+51,ESTACION,54 - Metro Tribunal,"Calle Barceló nº 9,",40.4265991,-3.700392998
+52,ESTACION,55 - Plaza de San Ildefonso,"Plaza de San Ildefonso nº4,",40.4239757,-3.7020842
+53,ESTACION,56 - Plaza del Carmen ,"Calle Abada, 2,",40.4190322,-3.7039033
+54,ESTACION,57 - Santa Cruz de Marcenado,"Calle Santa Cruz del Marcenado nº 26,",40.4295658,-3.7126299
+55,ESTACION,58 - Metro Chueca,"Calle Augusto Figueroa nº 33,",40.4222783,-3.6978583
+56,ESTACION,60 - Puerta de Alcalá,"Calle Valenzuela, 3,",40.41885249,-3.689098057
+57,ESTACION,61 - O Donnell - Narváez,"Calle O Donnell nº 30,",40.4214551,-3.6753139
+58,ESTACION,62 - Hospital M. Infantil Gregorio Marañón,"Calle O Donnell nº 48,",40.4213148,-3.6724968
+59,ESTACION,63 - Hospital Gral. Uni. Gregorio Marañón,"Calle Ibiza nº 64,",40.4179237,-3.6708959
+60,ESTACION,65 - Parque del Retiro - Calle Antonio Maura,"Calle Antonio Maura nº 13,",40.41670145,-3.689424798
+61,ESTACION,67 - CaixaForum Madrid,"Calle de Almadén, 38,",40.4108472,-3.693225
+62,ESTACION,68 - Espalter - Ruiz de Alarcón,"Calle Espalter nº 3,",40.4127692,-3.6913232
+63,ESTACION,69 - Parque del Retiro - Puerta Ángel Caído,"Avenida de Alfonso XII nº 54,",40.409808,-3.688822
+64,ESTACION,70 - Hospital Uni. Infantil Niño Jesús,"Avenida de Menéndez Pelayo nº 63,",40.41538239,-3.677872542
+65,ESTACION,71 - Plaza del Doctor Laguna,"Calle Doce de Octubre nº 28,",40.4161,-3.6739
+66,ESTACION,72 - Metro Sáinz de Baranda,"Calle Doctor Esquerdo nº 99,",40.41591276,-3.66921108
+67,ESTACION,73 - Plaza de los Astros,"Calle de los Astros, nº5 ,",40.4115,-3.6687
+68,ESTACION,74 - Parque Retiro - Jardines Cecilio Rguez,"Avenida de Menéndez Pelayo nº 69,",40.41206291,-3.676588764
+69,ESTACION,75 - Parque del Retiro - Plaza Mariano Cavia,"Avenida Menéndez pelayo (esquina con calle Poeta Esteban Villegas),",40.4082717,-3.6784749
+70,ESTACION,"76 - Avenida del Mediterráneo, 19","Avenida del Mediterráneo nº 19,",40.407271,-3.675102
+71,ESTACION,77 - Plaza del Conde de Casal,"Plaza del Conde de Casal nº 8,",40.4064784,-3.6707132
+72,ESTACION,78 - Metro Pacífico,"Calle Cerro de la Plata nº 4,",40.40063747,-3.67452406
+73,ESTACION,79 - Metro Menéndez Pelayo,"Avenida de Menéndez Pelayo nº 38,",40.40511019,-3.680439824
+74,ESTACION,81 - Cuesta de Moyano,"Calle Claudio Moyano, nº5 ,",40.40934261,-3.69183322
+75,ESTACION,82 - Doctor Esquerdo - Metro Conde de Casal,"Calle Lira, nº1 ,",40.4084556,-3.6697526
+76,ESTACION,83 - Pío Baroja,"Calle Pío Baroja nº8,",40.4132995,-3.6744795
+77,ESTACION,84 - Biblioteca Pública Elena Fortún,"Calle Doctor Esquerdo nº 191,",40.40357157,-3.672481575
+78,ESTACION,85 - Parque del Retiro - Puerta de O´Donnell,"Avenida de Menéndez Pelayo, 9,",40.4213143,-3.679891
+79,ESTACION,86 - Cibeles,"Paseo del Prado, 1B ,",40.4186516,-3.6933498
+80,ESTACION,87 - Ayala - Velázquez,"Calle Ayala nº 46,",40.427736,-3.6832566
