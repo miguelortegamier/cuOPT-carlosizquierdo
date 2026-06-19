@@ -1,0 +1,14 @@
+# Large CSV files that exceed GitHub limits
+dist_km_city_*.csv
+time_min_city_*.csv
+mtz_*.csv
+es_vrp_*.csv
+
+# Build and cache
+*.pyc
+__pycache__/
+.venv/
+*.egg-info/
+
+# Generated large output
+resultados_cuOpt.txt
