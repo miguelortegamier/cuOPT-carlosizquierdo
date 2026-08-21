@@ -1,5 +1,6 @@
 # NVIDIA cuOpt
-Carlos Izquierdo Hernández's research fellowship project at the Department of Industrial Management, Business Administration and Statistics of Universidad Politécnica de Madrid (UPM).<br>
+Carlos Izquierdo Hernández's research fellowship project at the Department of Industrial Management, Business Administration and Statistics of Universidad Politécnica de Madrid (UPM).<br> 
+***
 *"What if a consumer GPU could match a commercial solver in logistics?" — CIO 2026, Alcoy, 2–3 July 2026*
 # Overview
 This project develops a comparative study applied to Mixed Integer Linear Programming (MILP) and Vehicle Routing Problems (VRP):
