@@ -10,7 +10,7 @@ This project develops a comparative study applied to Mixed Integer Linear Progra
 Both dimensions are evaluated using standard benchmark instances from the operations research literature, providing a comprehensive picture of where GPU-accelerated optimization delivers the most value and where its limits lie. <br>
 ___
 The research was presented at **CIO 2026** (Congreso de Ingeniería de Organización), Alcoy, 2–3 July 2026. <br>
-**Authors:** *Carlos Izquierdo Hernández · Miguel Ortega Mier*
+**Authors:** *Carlos Izquierdo Hernández · Miguel Ortega Mier* 
 
 # Features
 - **Multi-Solver Comparison:** Systematic benchmarking of CBC, Gurobi, and NVIDIA cuOpt across identical problem instances, measuring time-to-solution and optimality gap.
